@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [Roman Farooq](https://www.linkedin.com/in/roman-farooq-1166191ba/)
-- 👀 I’m interested in Artificial intelligence, Digital image processing, Computer vision
-- 🌱 I’m currently learning Data Science & Big Data
-- 💞️ I’m looking to collaborate on Data related projects
+- 👀 I’m interested in Artificial intelligence, Web development, Cross-platform App development
+- 🌱 I’m currently learning Data Science, Big Data & Web development
+- 💞️ I’m looking to collaborate on MERN stack related projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/roman-farooq-1166191ba/)
 
 <!---
