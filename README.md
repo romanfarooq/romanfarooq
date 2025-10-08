@@ -104,5 +104,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romanfarooq&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=romanfarooq&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=romanfarooq&theme=tokyonight" />
 </p>
