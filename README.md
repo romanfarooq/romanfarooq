@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://romanfarooq.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-roman-farooq.vercel.app-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-romanfarooq.vercel.app-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
