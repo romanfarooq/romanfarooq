@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Farooq</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">AI Engineer & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+modern+apps+with+JS+%26+TS;Crafting+clean+UIs+%26+scalable+APIs;Mobile,+Web,+Cloud-ready+solutions" />
@@ -27,82 +27,78 @@
 
 ### 🚀 About Me
 
-- 🧠 Full-stack developer focusing on **scalable apps** with **React, Next.js, Express, Supabase, and TypeScript**
-- 🧩 Hands-on with modern tools like **Socket.IO, Stripe, Tailwind CSS, Zustand, Prisma, and Three.js**
-- 🌍 I build mobile-first UIs with **React Native** and **Flutter**
-- ⚡ Passionate about clean code, performance optimization, and building dev-first SaaS products
-- 🛠️ Loves automation, AI integrations, and headless architecture
-- 📦 Always exploring **new tech**, from **web scraping** to **real-time systems** and **Chrome extensions**
+- 💡 **AI Engineer & Full-Stack Developer** blending ML research and scalable product design  
+- 🧠 Skilled in **Deep Learning, NLP, and LLM Apps** using **PyTorch, TensorFlow & LangChain**  
+- ⚙️ Experienced with **Hono, Express, Next.js, Supabase, and FastAPI** for modern backends  
+- 🤖 Worked on **GPT, Llama 3**, and **Transformer fine-tuning** projects  
+- 📱 Builds cross-platform experiences with **React Native & Expo**  
+- 🌩️ Deploys on **Vercel, Cloudflare, Firebase, AWS, and DigitalOcean**  
+- 📚 Certified across **AI, Machine Learning, Front-End & Responsible AI**
 
 ---
 
 ### 🧰 Tech Stack
 
-#### 💻 Frontend
+#### 🤖 AI & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### 💻 Full-Stack Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-88CCCA?style=for-the-badge&logo=chakra-ui&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-E3008C?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-F7DF1E?style=for-the-badge&logo=three.js&logoColor=black)
-![React Three Fiber](https://img.shields.io/badge/React--Three--Fiber-A855F7?style=for-the-badge)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-10B981?style=for-the-badge)
-
-#### 🛠️ Backend & API
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-4B5563?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-00ADB5?style=for-the-badge&logo=fastapi&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-FF5733?style=for-the-badge)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0C344B?style=for-the-badge)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE3F02?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-808080?style=for-the-badge&logo=socket.io&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-5C2D91?style=for-the-badge)
-
-#### 🗃️ Database & Auth
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-FF4088?style=for-the-badge)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FACC15?style=for-the-badge&logo=firebase&logoColor=black)
-![Passport.js](https://img.shields.io/badge/Passport.js-3B5998?style=for-the-badge&logo=passport&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
-#### 🧪 Testing & DevTools
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier)
-
-#### 🧩 Other Tools
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5AD?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Cheerio](https://img.shields.io/badge/Cheerio-FF69B4?style=for-the-badge)
+#### ☁️ Cloud & DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 AI & Featured Projects
 
-| Project | Stack | Highlights |
-|--------|-------|-----------|
-| **Dynamic Menu** | React Native, Supabase, GPT-4o | AI-driven diet app, freemium model, fast MVP |
-| **Threado Studio** | Next.js, Three.js, Zustand | 3D clothing customizer, real-time interactivity |
-| **TrendTale** | React, FastAPI, BeautifulSoup | YouTube content generator from Google Trends |
-| **AutoHub360** | Next.js, Puppeteer, Socket.io | Scraping + auctions, real-time car listings |
-| **Ease-GPT** | Chrome Ext, Stripe, Google Analytics | Smart tabs & context for ChatGPT users |
-
+| Project | Tech | Highlights |
+|----------|------|------------|
+| **Dynamic Menu** | React Native, Supabase, GPT-4o | AI-driven diet assistant generating custom recipes |
+| **TrendTale** | FastAPI, GPT-4, BeautifulSoup | AI content generator for YouTube using OpenAI API |
+| **Ease-GPT** | Chrome Ext, Stripe, OpenAI | Smart ChatGPT companion with context & variables |
+| **CarCare Pro (FYP)** | Flutter, Firebase, ML | Predictive maintenance for cars using ML models |
+| **Threado Studio** | Next.js, Three.js, Zustand | 3D clothing customizer with real-time interactivity |
+| **AutoHub360** | Next.js, Puppeteer, Socket.io | Real-time auction + scraping system |
 ---
 
 ### ⚡ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romanfarooq&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=romanfarooq&theme=tokyonight" />
-</p>
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=romanfarooq&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=romanfarooq&layout=compact&show_icons=true&theme=react" alt="romanfarooq github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanfarooq&layout=compact&theme=react" alt="romanfarooq github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=romanfarooq&theme=merko" alt="romanfarooq github readme activity graph" width="60%" />
+</div>
