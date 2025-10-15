@@ -25,40 +25,28 @@
 
 ---
 
-### 🚀 About Me
-
-- 💡 **AI Engineer & Full-Stack Developer** blending ML research and scalable product design  
-- 🧠 Skilled in **Deep Learning, NLP, and LLM Apps** using **PyTorch, TensorFlow & LangChain**  
-- ⚙️ Experienced with **Hono, Express, Next.js, Supabase, and FastAPI** for modern backends  
-- 🤖 Worked on **GPT, Llama 3**, and **Transformer fine-tuning** projects  
-- 📱 Builds cross-platform experiences with **React Native & Expo**  
-- 🌩️ Deploys on **Vercel, Cloudflare, Firebase, AWS, and DigitalOcean**  
-- 📚 Certified across **AI, Machine Learning, Front-End & Responsible AI**
-
----
-
 ### 🧰 Tech Stack
 
 #### 🤖 AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### 💻 Full-Stack Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-4B5563?style=for-the-badge)
-![Hono](https://img.shields.io/badge/Hono-FF5733?style=for-the-badge)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0C344B?style=for-the-badge)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE3F02?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-4B5563?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-FF5733?style=for-the-badge&logo=hono&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0C344B?style=for-the-badge&logo=drizzle&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE3F02?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
