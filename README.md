@@ -25,6 +25,18 @@
 
 ---
 
+### 👨‍💻 About Me
+
+I’m an **AI & Full-Stack Engineer** passionate about merging **machine learning** and **modern web technologies** to build intelligent, data-driven products. I specialize in designing scalable architectures, crafting clean UIs, and deploying production-ready AI solutions.  
+
+- 🚀 Experienced in **React, Next.js, Node.js, Python, and FastAPI**
+- 🧠 Skilled in **LLMs, LangChain, TensorFlow, and data-driven AI systems**
+- ☁️ Proficient with **cloud deployment (Vercel, AWS, GCP, DigitalOcean)**
+- 🧩 Passionate about **end-to-end product engineering** — from model to UI
+- 🌍 Based in Pakistan | Open to **remote or hybrid opportunities**
+
+---
+
 ### 🧰 Tech Stack
 
 #### 🤖 AI & Data Science
