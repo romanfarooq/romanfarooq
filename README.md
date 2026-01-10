@@ -94,11 +94,11 @@ I’m an **AI & Full-Stack Engineer** passionate about merging **machine learnin
 ### ⚡ GitHub Stats
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=romanfarooq&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=romanfarooq&layout=compact&show_icons=true&theme=react" alt="romanfarooq github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=romanfarooq&theme=tokyonight" alt="romanfarooq github-readme-stats/streak" width="51%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=romanfarooq&show_icons=true&theme=tokyonight" alt="romanfarooq github-readme-stats" width="48%" />
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanfarooq&layout=compact&theme=react" alt="romanfarooq github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=romanfarooq&layout=compact&theme=tokyonight" alt="romanfarooq github-readme-stats/top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=romanfarooq&theme=merko" alt="romanfarooq github readme activity graph" width="60%" />
 </div>
