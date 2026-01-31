@@ -77,20 +77,6 @@ I’m an **AI & Full-Stack Engineer** passionate about merging **machine learnin
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
-
-### 🌟 AI & Featured Projects
-
-| Project | Tech | Highlights |
-|----------|------|------------|
-| **Dynamic Menu** | React Native, Supabase, GPT-4o | AI-driven diet assistant generating custom recipes |
-| **TrendTale** | FastAPI, GPT-4, BeautifulSoup | AI content generator for YouTube using OpenAI API |
-| **Ease-GPT** | Chrome Ext, Stripe, OpenAI | Smart ChatGPT companion with context & variables |
-| **CarCare Pro (FYP)** | Flutter, Firebase, ML | Predictive maintenance for cars using ML models |
-| **Threado Studio** | Next.js, Three.js, Zustand | 3D clothing customizer with real-time interactivity |
-| **AutoHub360** | Next.js, Puppeteer, Socket.io | Real-time auction + scraping system |
----
-
 ### ⚡ GitHub Stats
 
 <div>
