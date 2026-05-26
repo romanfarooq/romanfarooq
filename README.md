@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roman Farooq</h1>
-<h3 align="center">AI Engineer & Full-Stack Developer</h3>
+<h3 align="center">AI & Software Engineer | RF Systems & Satellite Communication | GIS, Remote Sensing & Space Technology</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+modern+apps+with+JS+%26+TS;Crafting+clean+UIs+%26+scalable+APIs;Mobile,+Web,+Cloud-ready+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI+%26+Engineering+Software+Systems;Exploring+RF,+Satellite+Communication+%26+Space+Technology;Working+with+GIS,+Remote+Sensing+%26+Earth+Observation;Creating+Scalable+Web,+Mobile+%26+AI+Applications" />
 </p>
 
 <p align="center">
@@ -27,19 +27,20 @@
 
 ### 👨‍💻 About Me
 
-I’m an **AI & Full-Stack Engineer** passionate about merging **machine learning** and **modern web technologies** to build intelligent, data-driven products. I specialize in designing scalable architectures, crafting clean UIs, and deploying production-ready AI solutions.  
+I’m an **AI & Software Engineer** with a growing focus on **RF systems, satellite communication, GIS, remote sensing, and space technology**. My work combines software engineering, AI/ML, data-driven applications, digital signal processing, geospatial technologies, and engineering software systems.
 
-- 🚀 Experienced in **React, Next.js, Node.js, Python, and FastAPI**
-- 🧠 Skilled in **LLMs, LangChain, TensorFlow, and data-driven AI systems**
-- ☁️ Proficient with **cloud deployment (Vercel, AWS, GCP, DigitalOcean)**
-- 🧩 Passionate about **end-to-end product engineering** — from model to UI
-- 🌍 Based in Pakistan | Open to **remote or hybrid opportunities**
+- 🚀 Experienced in **React, Next.js, Node.js, Python, FastAPI, and React Native**
+- 🧠 Skilled in **AI/ML, LLMs, LangChain, PyTorch, TensorFlow, and data-driven systems**
+- 🛰️ Exploring **RF systems, satellite communication, antenna systems, and space technology**
+- 🌍 Interested in **GIS, remote sensing, Earth observation, and geospatial applications**
+- 🧩 Passionate about building **engineering software systems, dashboards, automation tools, and decision-support platforms**
+- 🌍 Based in Pakistan | Open to **remote, hybrid, and engineering-focused opportunities**
 
 ---
 
 ### 🧰 Tech Stack
 
-#### 🤖 AI & Data Science
+#### 🤖 AI, Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -49,6 +50,28 @@ I’m an **AI & Full-Stack Engineer** passionate about merging **machine learnin
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+#### 🛰️ RF, Satellite Communication & Space Tech
+![Satellite Communication](https://img.shields.io/badge/Satellite%20Communication-0B3D91?style=for-the-badge&logo=satellite&logoColor=white)
+![RF Systems](https://img.shields.io/badge/RF%20Systems-005F73?style=for-the-badge&logo=radio&logoColor=white)
+![Antenna Systems](https://img.shields.io/badge/Antenna%20Systems-0096C7?style=for-the-badge&logo=podcast&logoColor=white)
+![VSAT](https://img.shields.io/badge/VSAT-03045E?style=for-the-badge&logo=satellite&logoColor=white)
+![C Band](https://img.shields.io/badge/C--Band-1D3557?style=for-the-badge&logo=waves&logoColor=white)
+![Ku Band](https://img.shields.io/badge/Ku--Band-457B9D?style=for-the-badge&logo=waves&logoColor=white)
+![Ka Band](https://img.shields.io/badge/Ka--Band-00B4D8?style=for-the-badge&logo=waves&logoColor=white)
+![HTS](https://img.shields.io/badge/HTS-48CAE4?style=for-the-badge&logo=satellite&logoColor=black)
+
+#### 🗺️ GIS, Remote Sensing & Earth Observation
+![GIS](https://img.shields.io/badge/GIS-2D6A4F?style=for-the-badge&logo=mapbox&logoColor=white)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-40916C?style=for-the-badge&logo=satellite&logoColor=white)
+![Earth Observation](https://img.shields.io/badge/Earth%20Observation-52B788?style=for-the-badge&logo=googleearth&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![ESA SNAP](https://img.shields.io/badge/ESA%20SNAP-003B5C?style=for-the-badge&logo=europeanspaceagency&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5A7D7C?style=for-the-badge&logo=databricks&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-2F3E46?style=for-the-badge&logo=python&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-264653?style=for-the-badge&logo=pandas&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 #### 💻 Full-Stack Development
 ![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
@@ -76,6 +99,8 @@ I’m an **AI & Full-Stack Engineer** passionate about merging **machine learnin
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
 
 ### ⚡ GitHub Stats
 
