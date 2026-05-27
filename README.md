@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Farooq</h1>
-<h3 align="center">AI & Software Engineer | RF Systems & Satellite Communication | GIS, Remote Sensing & Space Technology</h3>
+<h3 align="center">AI & Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI+%26+Engineering+Software+Systems;Exploring+RF,+Satellite+Communication+%26+Space+Technology;Working+with+GIS,+Remote+Sensing+%26+Earth+Observation;Creating+Scalable+Web,+Mobile+%26+AI+Applications" />
