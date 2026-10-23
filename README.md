@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Farooq</h1>
-<h3 align="center">AI & Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI+%26+Engineering+Software+Systems;Exploring+RF,+Satellite+Communication+%26+Space+Technology;Working+with+GIS,+Remote+Sensing+%26+Earth+Observation;Creating+Scalable+Web,+Mobile+%26+AI+Applications" />
@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-I’m an **AI & Software Engineer** with a growing focus on **RF systems, satellite communication, GIS, remote sensing, and space technology**. My work combines software engineering, AI/ML, data-driven applications, digital signal processing, geospatial technologies, and engineering software systems.
+I’m an **Software Engineer** with a growing focus on **RF systems, satellite communication, GIS, remote sensing, and space technology**. My work combines software engineering, AI/ML, data-driven applications, digital signal processing, geospatial technologies, and engineering software systems.
 
 - 🚀 Experienced in **React, Next.js, Node.js, Python, FastAPI, and React Native**
 - 🧠 Skilled in **AI/ML, LLMs, LangChain, PyTorch, TensorFlow, and data-driven systems**
@@ -110,6 +110,6 @@ I’m an **AI & Software Engineer** with a growing focus on **RF systems, satell
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=romanfarooq&layout=compact&theme=tokyonight" alt="romanfarooq github-readme-stats/top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=romanfarooq&theme=merko" alt="romanfarooq github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=romanfarooq&layout=compact&theme=tokyonight" alt="romanfarooq github-readme-stats/top-langs" width="34%" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanfarooq&theme=tokyonight&border_color=e4e2e2" alt="Roman Farooq's GitHub contribution graph" width="65%" />
 </div>
